@@ -1,0 +1,40 @@
+{
+  "navigation": {
+    "rooms": "НОМЕРА",
+    "service": "ДОДАТКОВИЙ СЕРВІС",
+    "aboutUs": "ПРО НАС",
+    "galery": "ФОТОГАЛЕРЕЯ",
+    "contacts": "КОНТАКТИ"
+  },
+  "request": {
+    "hotel": "ГОТЕЛЬ У ХАРЬКОВІ",
+    "description":{
+      "work24/7": "- Працюємо 24/7",
+      "highService": "- Високий рівень сервісу",
+      "healsyFood": "- Повноцінний здоровий сніданок",
+      "priceParty": "- Корпоративні тарифи",
+      "comfortLife": "- У нас є все для комфортного проживання"
+    },
+    "successRequest": "Дякую За заявку, ми передзвонимо вам найближчим часом",
+    "required": "Обов'язкове поле!"
+  },
+  "placeholders": {
+    "CheckIn": "Зїзд",
+    "CheckOut": "Виїзд",
+    "NumberOfPerson": "Кількість осіб:"
+  },
+  "button": {
+    "submitApplication": "Залишити заявку",
+    "moreDetails" : "Детальніше" ,
+    "BookARoom": "Забронювати номер",
+    "book": "Забронировать"
+ },
+ "titleRooms": "Наші номери",
+ "modal":{
+   "comeBack": "Повернутися обратно",
+   "facilities": "Для вашего удобства:",
+   "includeToPrice": "Входит в стоимость:",
+   "forExtraPrice": "За дополнительную плату",
+   "yourOrder": "Ваше замовлення:"
+ }
+}

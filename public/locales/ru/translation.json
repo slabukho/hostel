@@ -1,0 +1,40 @@
+{
+    "navigation": {
+      "rooms": "НОМЕРА",
+      "service": "ДОПОЛНИТЕЛЬНЫЙ СЕРВИС",
+      "aboutUs": "О НАС",
+      "galery": "ФОТОГАЛЕРЕЯ",
+      "contacts": "КОНТАКТЫ"
+    },
+    "request": {
+      "hotel": "ОТЕЛЬ В ХАРЬКОВЕ",
+      "description":{
+        "work24/7": "- Работаем 24/7",
+        "highService": "- Высокий уровень сервиса",
+        "healsyFood": "- Полноценный здоровый завтрак",
+        "priceParty": "- Корпоративные тарифы",
+        "comfortLife": "- У нас есть все для комфортного проживания"
+      },
+      "successRequest": "Спасибо За заявку, мы перезвоним вам в ближайшее время",
+      "required": "Обязательное поле!"
+    },
+    "placeholders": {
+      "CheckIn": "Заезд",
+      "CheckOut": "Выезд",
+      "NumberOfPerson": "Количество человек"
+    },
+    "button": {
+      "submitApplication": "Оставить заявку",
+      "moreDetails" : "Подробнее",
+      "BookARoom": "Забронировать номер",
+      "book": "Забронировать"
+   },
+   "titleRooms": "Наши номера",
+   "modal":{
+     "comeBack": "Вернуться обратно",
+     "facilities": "Для вашего удобства:",
+     "includeToPrice": "Входит в стоимость:",
+     "forExtraPrice": "За дополнительную плату",
+     "yourOrder": "Ваш заказ:"
+   }
+  }

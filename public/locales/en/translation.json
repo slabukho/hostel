@@ -1,0 +1,40 @@
+{
+  "navigation": {
+    "rooms": "ROOMS",
+    "service": "ADDITIONAL SERVICE",
+    "aboutUs": "ABOUT US",
+    "galery": "PHOTO GALLERY",
+    "contacts": "CONTACTS"
+  },
+  "request": {
+    "hotel": "HOTEL IN KHARKOV",
+    "description":{
+      "work24/7": "- Open 24/7",
+      "highService": "- High level of service",
+      "healsyFood": "- Complete healthy breakfast",
+      "priceParty": "- Corporate rates",
+      "comfortLife": "- We have everything for a comfortable stay"
+    },
+    "successRequest": "Спасибо За заявку, мы перезвоним вам в ближайшее время",
+    "required": "Обязательное поле!"
+  },
+  "placeholders": {
+    "CheckIn": "Check-in",
+    "CheckOut": "Check-uot",
+    "NumberOfPerson": "Number of persons:"
+  },
+  "button": {
+    "submitApplication": "Submit your application",
+    "moreDetails" : "Details" ,
+    "BookARoom": "Book a room",
+    "book": "Book now"
+ },
+ "titleRooms": "Our Rooms",
+ "modal":{
+   "comeBack": "Come back",
+   "facilities": "For your comfort:",
+   "includeToPrice": "Included in the price:",
+   "forExtraPrice": "At extra charge",
+   "yourOrder": "Your order:"
+ }
+}
